@@ -1,0 +1,12 @@
+*.js linguist-language=Assembler
+static/* linguist-vendored
+jquery.js linguist-vendored=false
+*.css linguist-language=Assembler
+static/* linguist-vendored
+jquery.js linguist-vendored=false
+*.scss linguist-language=Assembler
+static/* linguist-vendored
+jquery.js linguist-vendored=false
+*.html linguist-language=Assembler
+static/* linguist-vendored
+jquery.js linguist-vendored=false
