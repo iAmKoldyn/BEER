@@ -21,7 +21,7 @@ dict = {}
 
 
 def get_all_beer():
-    """doesn`t work correctly| Beer"""
+    """works correctly| Beer"""
     response = s.get(url=url_beer, headers=headers)
     for page in range(1, 70):
         response = s.get(url=f"https://beerkontora.ru/beer/page-{page}/",headers=headers)
