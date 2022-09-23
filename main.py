@@ -21,7 +21,7 @@ dict = {}
 
 
 def get_all_beer():
-    """doesn`t work correctly, ошибка после натыкания на отсутствие цены, добавить обработчик ошибок| Beer"""
+    """doesn`t work correctly| Beer"""
     response = s.get(url=url_beer, headers=headers)
     for page in range(1, 70):
         response = s.get(url=f"https://beerkontora.ru/beer/page-{page}/",headers=headers)
@@ -58,7 +58,6 @@ def get_all_shocolateie():
                 dict[title] = (shoc_hrefs, shoc_image, shoc_price)
             except: pass
 
-
         # with open("data/shocolate.json", "w", encoding='utf-8') as f:
         #     json.dump(dict, f, indent=4, ensure_ascii=False)
 
@@ -79,6 +78,7 @@ def get_all_sidr():
                 sidr_price = i.find("span", class_="ty-price-num").text.strip().replace(u"\xa0","")
                 dict[title] = (sidr_hrefs, sidr_image, sidr_price)
             except: pass
+
         # with open("data/sidr.json", "w", encoding='utf-8') as f:
         #     json.dump(dict, f, indent=4, ensure_ascii=False)    
 
@@ -139,8 +139,9 @@ def get_all_coffee():
             dict[title] = (coffee_hrefs, coffee_image, coffee_price)
         except: pass
 
-        # with open("data/kofe.json", "w", encoding='utf-8') as f:
-        #     json.dump(dict, f, indent=4, ensure_ascii=False)
+
+    # with open("data/132.json", "w", encoding='utf-8') as f:
+    #         json.dump(dict, f, indent=4, ensure_ascii=False)
 
 def main():
     get_all_beer()

@@ -62,7 +62,7 @@ def bot_message(message):
 
         elif message.text == '⚡️tip of the day':
             markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-            bot.send_message(message.chat.id,'\nСпасибо, что доверились нашему выбору)\n', reply_markup=markup)
+            bot.send_message(message.chat.id,'\nСпасибо, что доверились моему выбору)\n', reply_markup=markup)
 
 
         elif message.text == '⬅️ назад':
