@@ -1,6 +1,6 @@
 # BEER | Telegram Bot
 
-https://user-images.githubusercontent.com/91592995/192093258-59ff1263-4c4e-40d2-b4ed-c607735f3edb.mp4
+![SSRBu7MOtlI](https://user-images.githubusercontent.com/91592995/192093422-f51a23da-b564-4fd2-ae25-14c2304a9d8c.jpg)
 
 ### About
 
