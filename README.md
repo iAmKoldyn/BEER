@@ -1,6 +1,6 @@
 # BEER | Telegram Bot
 
-![SSRBu7MOtlI](https://user-images.githubusercontent.com/91592995/192093422-f51a23da-b564-4fd2-ae25-14c2304a9d8c.jpg)
+![Futurama Bender 1](https://user-images.githubusercontent.com/91592995/192093501-a1f90a9b-7fb4-4a09-a50f-7e214c0102e8.jpg)
 
 ### About
 
