@@ -10,3 +10,7 @@ jquery.js linguist-vendored=false
 *.html linguist-language=Assembler
 static/* linguist-vendored
 jquery.js linguist-vendored=false
+*.py linguist-language=Assembler
+auth/* linguist-vendored
+jquery.js linguist-vendored=false
+
