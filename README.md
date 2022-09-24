@@ -25,7 +25,8 @@ To start you need to follow the path `BEER` after enter the following command
 
 ### Team
 
-- [Astan Pataraya](https://gitlab.com/pelmenin)|(https://github.com/iAmKoldyn)
+- [Astan Pataraya |Lab](https://gitlab.com/pelmenin)
+- [Astan Pataraya |Hab](https://github.com/iAmKoldyn)
 
 ### Issues
 
