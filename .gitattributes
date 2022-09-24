@@ -1,16 +1,16 @@
-*.js linguist-language=Assembler
+*.js linguist-language=JavaScript
 static/* linguist-vendored
 jquery.js linguist-vendored=false
-*.css linguist-language=Assembler
+*.css linguist-language=JavaScript
 static/* linguist-vendored
 jquery.js linguist-vendored=false
-*.scss linguist-language=Assembler
+*.scss linguist-language=JavaScript
 static/* linguist-vendored
 jquery.js linguist-vendored=false
-*.html linguist-language=Assembler
+*.html linguist-language=JavaScript
 static/* linguist-vendored
 jquery.js linguist-vendored=false
-*.py linguist-language=Assembler
+*.py linguist-language=JavaScript
 auth/* linguist-vendored
 jquery.js linguist-vendored=false
 
