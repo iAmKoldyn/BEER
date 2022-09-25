@@ -6,6 +6,8 @@
 
 Happiness is measured in liters, in liters of BEER!
 
+A simple bot with uploading pre-received json data to the telegram bot
+
 ### Requirements
 
 We recommend to create a virtual environment using `python3 -m pip install --user virtualenv`  and `python3 -m venv env` then setup environment using `pip install -r requirements.txt` for setting up the environment. We have used **Python 3.8.0** for development.
